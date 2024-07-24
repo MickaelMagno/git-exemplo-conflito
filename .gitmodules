@@ -1,0 +1,3 @@
+[submodule "git-exemplo-conflito"]
+	path = git-exemplo-conflito
+	url = https://github.com/MickaelMagno/git-exemplo-conflito.git
